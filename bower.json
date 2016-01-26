@@ -21,6 +21,8 @@
     "tests"
   ],
   "dependencies": {
-    "angular": "~1.4.9"
+    "angular": "~1.4.9",
+    "kefir": "~3.2.0",
+    "ramda": "~0.19.1"
   }
 }
