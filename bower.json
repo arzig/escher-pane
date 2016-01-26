@@ -1,0 +1,26 @@
+{
+  "name": "escher-pane",
+  "description": "An angular directive for infinite scrolling.",
+  "main": "index.js",
+  "authors": [
+    "Ryan Zeigler <zeiglerr@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "angular",
+    "infinite",
+    "scroll"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.9"
+  }
+}
